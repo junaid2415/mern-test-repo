@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build files
+/build
+/dist
+
+# Runtime data
+/logs
+/tmp
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Dependencies
+*.env
+
+# MongoDB data directory
+/data/db
+
+# Server-specific log files
+/server/logs
+
+# Client build output
+/client/build
+
+# User-specific files
+npm-debug.log
